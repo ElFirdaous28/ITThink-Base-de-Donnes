@@ -6,7 +6,7 @@ This project involves designing and implementing a structured database for ITThi
 ## Technologies Used
 - MySQL
 - SQL
-- UML (for diagramming)
+- UML
 
 ## Database Schema
 The database consists of the following tables:
